@@ -10,6 +10,6 @@
 * LINX
 
 ### LABVIEW Dependencies:
-* MakerHub Toolbox 2.0.0.35
-* Digilent LINX 3.0.1.192
+* MakerHub Toolbox
+* Digilent LINX
 * LabVIEW 2014 Control Design and Simulation Module
